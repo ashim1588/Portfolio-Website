@@ -9,6 +9,14 @@ export const ProjectList = [
     demo_url: "https://lachoo-connect.vercel.app/login",
   },
   {
+    img: "/LachooConnect.png",
+    title: "Coffee House",
+    description: "Coffee House App, made for coffee addicts",
+    tech_stack: ["React Native"],
+    github_url: "https://github.com/ashim1588/CoffeeHouse",
+    demo_url: "",
+  },
+  {
     img: "/ShopifyPlus.png",
     title: "Shopify Plus",
     description:
